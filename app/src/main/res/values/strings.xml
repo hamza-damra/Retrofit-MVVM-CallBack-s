@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit &amp; MVVM &amp; CallBack\'s</string>
+    <string name="demo">Demo</string>
+    <string name="get_data">Get Data</string>
+</resources>
